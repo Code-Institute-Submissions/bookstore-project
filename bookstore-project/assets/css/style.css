@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto&display=swap');
+
+
+
+
+/*-----------------------------------------------callout*/
+.callout-container {
+   height: 100vh;
+   
+    
+   background: url("assets/images/pens1.jpg");
+   background-size: cover;
+
+   display: flex;
+   align-items: center;
+   justify-content: center;
+    
+    }
+/*-----------------------------------------------navbar-container*/
+
+.navbar-container {
+    background-color: #fff;
+    
+   
+}
+.navbar {
+    background-color: rgb(23, 127, 172);
+}
+
+.navbar li a {
+    color: #fff;
+}
+.navbar-brand h3 {
+    color: #fff;
+}
+/*-----------------------------------------------jumbotron*/
+
+.jumbotron-header {
+    margin-bottom: 25px;
+    color: rgb(23, 127, 172);
+    font-size: 40px;
+}
+
+.jumbotron h2 {
+    
+}
+/*-----------------------------------------------buttons*/
+.btn--cta {
+    font-weight: bold;
+    border-radius: 23px;
+    width: 160px;
+    
+}
+
+.card {
+    float:left;
+}
+
+
+
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.general-sub {
+    font-family: roboto;
+    font-weight: 200;
+    }
+
+
+    
+}
+
+.bg-color-our-story {
+    background-color:#fafafa;
+    }
+
+.story-heading {
+    font-family: 'Montserrat',sans-serif;
+      
+}
+
+.uppercase story-heading {
+    font-size: 22px;
+    font-color: red;
+
+}
+/*-----------------------------------------------footer*/
+footer {
+    background-color: rgb(23, 127, 172);
+    color: #fae4e4;
+    min-height: 75px;
+    margin:0;
+    
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px;
+    border-radius:50%;
+    font-size:13px;
+    line-height:7px;
+    text-align: centre;
+    color:#fafafa;
+    background:#8f8f8f;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+
+}
+.social-links li a i:hover {
+    background-color:#e84610 
+}
+
+.list-item li {
+    list-style: none;
+}
+
+.list-item li i {
+    margin-right: 25px;
+}
+#footer-details {
+    padding:20px;
+    margin-right:20px;
+}
