@@ -49,8 +49,7 @@
     font-weight: bold;
     border-radius: 23px;
     width: 160px;
-    
-}
+    }
 
 .card {
     float:left;
@@ -72,9 +71,7 @@
     font-weight: 200;
     }
 
-
-    
-}
+   
 
 .bg-color-our-story {
     background-color:#fafafa;
@@ -90,6 +87,26 @@
     font-color: red;
 
 }
+/*-----------------------------------------------contact form*/
+contact-form ul li {
+    list-style: none;
+}
+
+form {
+    padding-top: 10px;
+    max-width: 70%;
+}
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #fafafa;
+    background-color:rgb(23, 127, 172);
+}
+
+
+
+
+
 /*-----------------------------------------------footer*/
 footer {
     background-color: rgb(23, 127, 172);
