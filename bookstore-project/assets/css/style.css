@@ -32,6 +32,10 @@
 }
 .navbar-brand h3 {
     color: #fff;
+    font-size: 24px;
+}
+#NavbarNavDropdown {
+    color:#e84610;
 }
 /*-----------------------------------------------jumbotron*/
 
