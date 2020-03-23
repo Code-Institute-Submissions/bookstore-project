@@ -93,7 +93,11 @@
 .uppercase story-heading {
     font-size: 22px;
     font-color: red;
+}
 
+.section-heading {
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 /*-----------------------------------------------contact form*/
 contact-form ul li {
