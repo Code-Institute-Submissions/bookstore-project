@@ -20,38 +20,38 @@
 
 .navbar-container {
     background-color: #fff;
-    
-   
-}
+    }
 .navbar {
     background-color: rgb(23, 127, 172);
-}
+    }
 
 .navbar li a {
     color: #fff;
-}
+    }
+
 .navbar-brand h3 {
     color: #fff;
     font-size: 24px;
-}
+    }
+
 #NavbarNavDropdown {
     color:#e84610;
-}
+    }
 
 .navbar-toggler-icon {
     color: #fff;
-}
+    }
 /*-----------------------------------------------jumbotron*/
 
 .jumbotron-header {
     margin-bottom: 25px;
     color: rgb(23, 127, 172);
     font-size: 40px;
-}
+    }
 
 .jumbotron h2 {
-    
-}
+
+    }
 /*-----------------------------------------------buttons*/
 .btn--cta {
     font-weight: bold;
@@ -78,8 +78,6 @@
     font-family: roboto;
     font-weight: 200;
     }
-
-   
 
 .bg-color-our-story {
     background-color:#fafafa;
@@ -115,18 +113,17 @@ button[type="submit"] {
     background-color:rgb(23, 127, 172);
 }
 
-
-
-
-
 /*-----------------------------------------------footer*/
 footer {
     background-color: rgb(23, 127, 172);
     color: #fae4e4;
     min-height: 75px;
-    margin:0;
-    
+    margin: 0;
+    }
+.ui i {
+    padding-left: 5px;
 }
+
 
 .social-links li a i {
     width: 32px;
@@ -151,9 +148,7 @@ footer {
     list-style: none;
 }
 
-.list-item li i {
-    margin-right: 25px;
-}
+
 #footer-details {
     padding:20px;
     margin-right:20px;
