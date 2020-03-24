@@ -6,16 +6,23 @@
 /*-----------------------------------------------callout*/
 .callout-container {
    height: 100vh;
+   margin: 0px;
+   margin-bottom: 0px;
    
     
-   background: url("assets/images/pens1.jpg");
-   background-size: cover;
-
    display: flex;
    align-items: center;
    justify-content: center;
     
     }
+
+.img-bg {
+    background: url("assets/images/pens1.jpg"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+}
 /*-----------------------------------------------navbar-container*/
 
 .navbar-container {
@@ -43,15 +50,19 @@
     }
 /*-----------------------------------------------jumbotron*/
 
+.jumbotron {
+    padding: 0;
+    margin-bottom: 0;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+}
 .jumbotron-header {
     margin-bottom: 25px;
-    color: rgb(23, 127, 172);
+    color:rgb(23, 127, 172);
     font-size: 40px;
     }
 
-.jumbotron h2 {
-
-    }
+   
 /*-----------------------------------------------buttons*/
 .btn--cta {
     font-weight: bold;
