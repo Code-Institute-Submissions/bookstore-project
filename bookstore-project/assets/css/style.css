@@ -51,15 +51,15 @@
 /*-----------------------------------------------jumbotron*/
 
 .jumbotron {
-    padding: 0;
-    margin-bottom: 0;
+    padding: 0px;
+    margin: 0px;
     background-color: #e9ecef;
     border-radius: .3rem;
 }
 .jumbotron-header {
     margin-bottom: 25px;
     color:rgb(23, 127, 172);
-    font-size: 40px;
+    font-size: 30px;
     }
 
    
