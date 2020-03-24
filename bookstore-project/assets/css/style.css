@@ -13,8 +13,7 @@
    display: flex;
    align-items: center;
    justify-content: center;
-    
-    }
+   }
 
 .img-bg {
     background: url("assets/images/pens1.jpg"); 
@@ -22,12 +21,13 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
-}
+    }
 /*-----------------------------------------------navbar-container*/
 
 .navbar-container {
     background-color: #fff;
     }
+
 .navbar {
     background-color: rgb(23, 127, 172);
     }
@@ -55,7 +55,8 @@
     margin: 0px;
     background-color: #e9ecef;
     border-radius: .3rem;
-}
+    }
+
 .jumbotron-header {
     margin-bottom: 25px;
     color:rgb(23, 127, 172);
@@ -72,18 +73,18 @@
 
 .card {
     float:left;
-}
+    }
 
 .top {
-    background:#8f8f8f
-}
+    background:#8f8f8f;
+    }
 
 
 
 
 .uppercase {
     text-transform: uppercase;
-}
+    }
 
 .general-sub {
     font-family: roboto;
@@ -96,38 +97,45 @@
 
 .story-heading {
     font-family: 'Montserrat',sans-serif;
-      
-}
+    }
 
 .uppercase story-heading {
     font-size: 22px;
     font-color: red;
-}
+    }
 
 .section-heading {
     margin-top: 25px;
     margin-bottom: 25px;
-}
+    }
 /*-----------------------------------------------contact form*/
 contact-form ul li {
     list-style: none;
-}
+    }
 
 form {
     padding-top: 10px;
     max-width: 50%;
     margin: 0 auto;
-}
+    }
+
 button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
     color: #fafafa;
     background-color:rgb(23, 127, 172);
-}
+    }
 
-contact-heading {
+.contact-heading {
+    margin-top: 25px;
     margin-bottom: 25px;
-}
+    }
+
+hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #fff;
+    }
 
 /*-----------------------------------------------footer*/
 footer {
@@ -138,7 +146,7 @@ footer {
     }
 .ui i {
     padding-left: 5px;
-}
+    }
 
 
 .social-links li a i {
@@ -154,18 +162,18 @@ footer {
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
+    }
 
-}
 .social-links li a i:hover {
-    background-color:#e84610 
-}
+    background-color:#e84610;
+    }
 
 .list-item li {
     list-style: none;
-}
+    }
 
 
 #footer-details {
     padding:20px;
     margin-right:20px;
-}
+    }
