@@ -125,6 +125,10 @@ button[type="submit"] {
     background-color:rgb(23, 127, 172);
 }
 
+contact-heading {
+    margin-bottom: 25px;
+}
+
 /*-----------------------------------------------footer*/
 footer {
     background-color: rgb(23, 127, 172);
