@@ -8,19 +8,13 @@
    height: 100vh;
    margin: 0px;
    margin-bottom: 0px;
-   
-    
-   display: flex;
-   align-items: center;
-   justify-content: center;
    }
 
-.img-bg {
-    background: url("assets/images/pens1.jpg"); 
-    background-position: center;
+.callout-container {
+    background-image:url("../images/pens1.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 360px;
+    background-size: 100% 100%;
+    
     }
 /*-----------------------------------------------navbar-container*/
 
@@ -53,12 +47,12 @@
 .jumbotron {
     padding: 0px;
     margin: 0px;
-    background-color: #e9ecef;
+    background-color: transparent;
     border-radius: .3rem;
     }
 
 .jumbotron-header {
-    margin-bottom: 25px;
+    margin-top: 25px;
     color:rgb(23, 127, 172);
     font-size: 30px;
     }
