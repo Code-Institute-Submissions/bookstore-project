@@ -37,5 +37,27 @@ We continually tweak and adjust this template to help give you the best experien
 My project aims at pushing Elma Printers and Stationers to be at the same stage with the current growing technology needs. 
 Elma Printers is going that direction by creating a website and exploring e-book intergration.
 
-creating Elma Printers and Stationers website will be a platform that will expose us to a wider market with users getting to 
+Creating Elma Printers and Stationers website will be a platform that will expose us to a wider market with users getting to know 
 our products online and getting to know more information about Elma Printers and Stationers.
+
+## UX
+This project is aimed at the general public, parents, teachers, learners, institutions a quicker means of them to know of what
+products and services are available at Elma Printers and Stationers, new products in the market and how best Elma Printers
+and Stationers can improve its services by getting feedback from the product user.
+
+## Features
+
+
+### Existing Features
+
+### Features Left to Implement
+In future, i wish to add a 
+
+## Technologies Used
+
+
+## Testing
+
+## Deployment
+
+## Credits
