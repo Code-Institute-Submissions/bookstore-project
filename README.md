@@ -33,6 +33,9 @@ We continually tweak and adjust this template to help give you the best experien
 
 --------
 
-Happy coding!
-
 # Elma Printers and Stationers
+My project aims at pushing Elma Printers and Stationers to be at the same stage with the current growing technology needs. 
+Elma Printers is going that direction by creating a website and exploring e-book intergration.
+
+creating Elma Printers and Stationers website will be a platform that will expose us to a wider market with users getting to 
+our products online and getting to know more information about Elma Printers and Stationers.
