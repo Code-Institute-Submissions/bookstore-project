@@ -56,8 +56,8 @@ body {
 	color: #e84610;
 }
 
-.navbar-toggler-icon {
-	color: #fff;
+.button icon-bar {
+	color: #e84610;
 }
 
 /*-----------------------------------------------jumbotron*/
@@ -178,6 +178,11 @@ footer {
 	background-color: rgb(23, 127, 172);
 	color: #fae4e4;
 	
+
+}
+
+.subscribe {
+    margin-bottom: 25px;
 }
 
 .ui i {
