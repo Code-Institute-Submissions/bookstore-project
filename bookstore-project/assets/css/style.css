@@ -2,8 +2,8 @@
 
 body {
     margin: 0;
+    padding:0;
 }
-
 
 /*-----------------------------------------------callout*/
 
@@ -17,6 +17,16 @@ body {
 	background-image: url("../images/pens1.jpg");
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
+}
+.about-container {
+    height: 130vh;
+	margin-bottom: 0px;
+    display: block;
+    }
+    
+
+.container-contact {
+    height: 150vh;
 }
 
 /*-----------------------------------------------navbar-container*/
@@ -87,12 +97,7 @@ body {
 	font-weight: 200;
 }
 
-.about-container {
-    height: 100vh;
-	margin: 0px;
-	margin-bottom: 0px;
-    background-color: red;
-}
+
 
 .bg-color our-story {
 	
