@@ -64,16 +64,26 @@ body {
 
 .jumbotron {
 	padding: 0px;
-	margin: 0px;
+	margin: 0;
 	background-color: transparent;
 	border-radius: .3rem;
 }
 
 .jumbotron-header {
-	margin-top: 50px;
-	color: rgb(23, 127, 172);
-	font-size: 30px;
+	margin-top: 60px;
+    margin-right: 200px;
+   	color: rgb(23, 127, 172);
+	font-size: 50px;
 }
+.jumbotron h4 {
+    margin-right: 200px;
+}
+
+.jumbotron h5 {
+    margin-right: 200px;
+}
+
+
 
 
 /*-----------------------------------------------buttons*/
@@ -87,10 +97,15 @@ body {
 .card {
 	float: left;
     max-height: 450px;
+    margin-left: 20px;
 }
 
 .top {
 	background: #8f8f8f;
+}
+
+.heading-topselling {
+    margin-left: 20px:
 }
 
 .uppercase {
@@ -162,7 +177,6 @@ footer {
     bottom: 0;
 	background-color: rgb(23, 127, 172);
 	color: #fae4e4;
-	
 	
 }
 
