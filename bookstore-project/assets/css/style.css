@@ -33,7 +33,7 @@ body {
     height: 150vh;
 }
 
-/*-----------------------------------------------navbar-container*/
+/*-------------------------------------navbar-container*/
 
 .navbar-container {
 	background-color: #fff;
@@ -54,6 +54,12 @@ body {
 
 #NavbarNavDropdown {
 	color: #e84610;
+}
+
+.navbar .navbar-togler {
+    display: inline-block;
+    border:0;
+    color: red;
 }
 
 .button icon-bar {
@@ -94,6 +100,13 @@ body {
 	width: 160px;
 }
 
+.newsletter-button {
+    margin-top: 15px;
+    margin-left: 90px;
+}
+
+
+/*-----------------------------------------------card*/
 .card {
 	float: left;
     max-height: 450px;
