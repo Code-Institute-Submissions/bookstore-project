@@ -45,6 +45,7 @@ body {
 
 .navbar li a {
 	color: #fff;
+    font-weight: bold;
 }
 
 .navbar-brand h3 {
@@ -56,21 +57,6 @@ body {
     border: 0;
 
 
-}
-
-
-#NavbarNavDropdown {
-	color: #e84610;
-}
-
-.navbar .navbar-togler {
-    display: inline-block;
-    border:0;
-    color: red;
-}
-
-.button icon-bar {
-	color: #e84610;
 }
 
 /*-----------------------------------------------jumbotron*/
@@ -88,6 +74,7 @@ body {
    	color: rgb(23, 127, 172);
 	font-size: 50px;
 }
+
 .jumbotron h4 {
     margin-right: 200px;
     margin-top: 10px;
@@ -125,7 +112,7 @@ body {
 }
 
 .newsletter-button {
-    margin-top: 15px;
+    margin-top: 10px;
     margin-left: 65px;
     z-index: 1;
 }
