@@ -52,6 +52,13 @@ body {
 	font-size: 24px;
 }
 
+.navbar .navbar-toggler {
+    border: 0;
+
+
+}
+
+
 #NavbarNavDropdown {
 	color: #e84610;
 }
@@ -83,10 +90,13 @@ body {
 }
 .jumbotron h4 {
     margin-right: 200px;
+    margin-top: 10px;
+    
 }
 
 .jumbotron h5 {
     margin-right: 200px;
+    margin-top: 20px;
 }
 
 
