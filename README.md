@@ -25,12 +25,16 @@ Then below and just above the footer in index.html is our story section also a s
 Stationers which has better spacing making it easier to read and process visually.
 
 ### Features Left to Implement
-In future, i wish to highlight the 'buy now' and 'subscribe' buttons
+In future, i wish to put more functionality to the 'buy now' and 'subscribe' buttons
 Also i would like to include a feature where users can be notified of new products for promotion in the market and special offer
 whenever available.
 
 ## Technologies Used
-
+* item 1 (like http://getbootstrap.com/)
+  * item 1a used bootstrap because its responsive and its a mobile first framework
+  * item 1b bootstrap being a HTML, CSS and JavasSript framework provided a rich selection of responsive classes to choose from
+  * item 1c it helped me create a functional prototype in my index.html before building it further.
+  * item 1d I did not have to know JavaScript yet i used it to create my modal with the subscribe button as well as collapsing navbar in smaller screens.
 
 ## Testing
 
