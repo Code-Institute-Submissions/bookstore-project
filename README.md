@@ -17,9 +17,12 @@ This site will include features such as inviting users for their feedback throug
 Another feature is the subscribe button for users to sign up for our newsletter.
 The above features will help us know what the user needs.
 
-* As a user type as a developer i want to create brand awareness
-* As a user type as a developer i want to increase sales
-* As a user type as a developer i want to get to know what my users needs because the project is user centered
+* As a developer i want to create brand awareness
+* As a developer i want to increase sales
+* As a developer i want to get to know what my user needs because the project is user centered
+* For users if they would use our product and why
+* For users what they like out my product as a developer and any changes i could make.
+
 
 
 
@@ -67,6 +70,19 @@ whenever available.
 
   - When I submit the form with all inputs valid a success message appears.
 
+- When viewed on mobile the site is responsive even on tablet the site is reponsive
+
+- I have not discovered any bugs and problems during testing.
 ## Deployment
+- On Github i navigated to my site's repository 
+- Under my repository name i clicked on settings
+- Under "Github Pages" i used the source dropdown menu and selected a publiship source, a link was published.
 
 ## Credits
+- The text of content our story was inspired by (http://textbookcentre.com/)
+
+## Media
+- (http://freestockphotos.com/)
+    
+## Acknowledgement
+- I received inspiration for this project from (http://textbookcentre.com/)
