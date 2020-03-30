@@ -235,6 +235,7 @@ footer {
 
 .list-item li {
 	list-style: none;
+    display: block;
 }
 
 #footer-details {
