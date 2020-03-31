@@ -33,7 +33,7 @@ by following the UX 5 planes which are:
  - skeleton - Working on wireframes, relationship of content, concerned with navigation design and interface design.
  - surface - the topography, developing a visual language that provides information and context. Including color, font images.
 
-![image of wireframe 1](https://jos-lab.github.io/bookstore-project/images/wireframe1.jpg)
+![wireframe](assets/images/wireframe1.jpg?raw=true "wireframe")
 
 
 
