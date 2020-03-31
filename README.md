@@ -35,6 +35,10 @@ by following the UX 5 planes which are:
 
 ![wireframe](assets/images/wireframe1.jpg?raw=true "wireframe")
 
+![wireframe](assets/images/wireframe2.jpg?raw=true "wireframe")
+
+![wireframe](assets/images/wireframe3.jpg?raw=true "wireframe")
+
 
 
 ## Features
